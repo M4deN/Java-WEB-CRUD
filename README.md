@@ -1,8 +1,6 @@
 <h1> Projeto Prático JAVA WEB CRUD</h1>
 <p><b>Site CRUD 🧮</b></p>
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Projeto-Pratico-WEB/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
