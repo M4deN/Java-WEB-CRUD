@@ -1,0 +1,128 @@
+/* 
+    Created on : 21/01/2022, 13:26:21
+    Author     : Alecio
+*/
+body {
+    background-color: #202124;
+    color: #e8eaed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul#menu {
+    margin-top: 100px;
+    margin-left: 550px;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: absolute;
+}
+ul#menu li a { 
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    text-align: center;
+    padding:  20px 80px;
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-color: #0080FF;
+    border-bottom-width: 2px;
+}
+ul#menu li {
+    float:left;
+}
+ul#menu li a:hover {
+    background-color: #0080FF;
+    color: white;
+}
+.selecionado {
+    background-color: #0080FF;
+}
+.menuNav { 
+    text-align: center; 
+}
+
+.menunavControls { 
+    display: absolute; 
+}
+
+a{
+  font-size:20px;
+  color:#ffffff;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+a:hover{
+  color:#0080FF;
+  transition: all;
+}
+
+h1{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: -10px;
+}
+
+#campo_nome{
+    width:300px;
+    height:20px;
+  }
+  
+  #campo_email{
+    width:300px;
+    height:20px;
+  }
+  
+  #campo_cpf{
+    width:300px;
+    height:20px;
+  }
+  
+  #campo_telefone{
+    width:300px;
+    height:20px;
+  }
+ 
+  #btn{
+    height:50px;
+    width:130px;
+    background-color: #ffffff;
+    font-size:large;
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  #btn1{
+    height:38px;
+    width:130px;
+    background-color: #ffffff;
+    font-size:large;
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+   #btn:hover{
+    background-color: #0080FF;
+    transition: all;
+  }
+   #btn1:hover{
+    background-color: #0080FF;
+    transition: all;
+  }
+  #btn a{
+    color:#000000;
+  }
+  #nome{
+    margin-left: -10px;
+    width:410px;
+    height:30px
+  }
+  .table-responsive{
+    margin:auto;
+    width: 100% !important;
+}
+.form{
+    margin-top: 100px;
+    text-align: center;
+}
+#qt{
+    text-align: center;
+}
