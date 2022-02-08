@@ -1,5 +1,5 @@
 <h1> Projeto Prático JAVA WEB CRUD</h1>
-<p><b>Site Portfólio 🧮</b></p>
+<p><b>Site CRUD 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 <a href="https://alexdesaran.github.io/Projeto-Pratico-WEB/"> Visite o site! </a>
@@ -12,7 +12,8 @@
  <li><a href="#sobre">Sobre</a></li>
  <li><a href="#tecnologias">Técnologias usadas</a></li> 
  <li><a href="#sessao">sessão da página</a></li>
- <li><a href="#autor">Autor</a></li> 
+ <li><a href="#autor">Autor</a></li>
+ 
 </ul>
 
 <h2 id="sobre">Sobre</h2>
@@ -24,9 +25,9 @@ Foi desenvolvido diretamente no código.</p>
 <h2 id="tecnologias">Técnologias Usadas:</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 </p>
 
 <h2 id="sessao">Sessão do Projeto:</h2>
@@ -37,11 +38,19 @@ Foi desenvolvido diretamente no código.</p>
 
 
 ![Começo](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img.png)
+
+<h3>Sessão Cadastro de cliente:</h3>
+
 ![parte2](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img2.png)
 
-<h3>Forms Contato:</h3>
+<h3>Sessão consultar cliente:</h3>
 
-![parte7](https://github.com/AlexDeSaran/Projeto-Pratico-WEB/blob/main/imagens/img2.png)
+![parte7](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img3.png)
+
+<h3>Sessão Cadastro de produtos:</h3>
+
+![parte7](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img4.png)
+![parte7](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img5.png)
 
 ##### Autor do Projeto: Alécio L. Medeiros
 
