@@ -8,7 +8,7 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Técnologias usadas</a></li> 
+ <li><a href="#tecnologias">Tecnologias usadas</a></li> 
  <li><a href="#sessao">sessão da página</a></li>
  <li><a href="#autor">Autor</a></li>
  
@@ -20,7 +20,7 @@ Foi desenvolvido diretamente no código.</p>
 
 <p>O projeto não está Totalmente responsivo, atendendo a alguns dispositivos.</p>
 
-<h2 id="tecnologias">Técnologias Usadas:</h2>
+<h2 id="tecnologias">Tecnologias Usadas:</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
