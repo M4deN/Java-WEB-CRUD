@@ -1,5 +1,5 @@
 <h1> Projeto Prático JAVA WEB CRUD</h1>
-<p><b>Site CRUD 🧮</b></p>
+<p><b>Projeto CRUD 🧮</b></p>
 
 
 <h4> 
