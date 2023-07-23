@@ -15,7 +15,7 @@
 </ul>
 
 <h2 id="sobre">Sobre</h2>
-<p>Esse projeto Foi desenvolvido a fins de estudos e práticas para Desenvolvimento web e práticas de responsividade. O projeto não teve protótipo.
+<p>Esse projeto Foi desenvolvido a fins de estudos e práticas para Desenvolvimento web e práticas de back-end, o projeto não teve protótipo.
 Foi desenvolvido diretamente no código.</p>
 
 <p>O projeto não está Totalmente responsivo, atendendo a alguns dispositivos.</p>
