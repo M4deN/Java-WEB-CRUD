@@ -8,9 +8,8 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Tecnologias usadas</a></li> 
- <li><a href="#sessao">sessão da página</a></li>
- <li><a href="#autor">Autor</a></li>
+ <li><a href="#tecnologias">Tecnologias</a></li> 
+ <li><a href="#sessao">Sessões do Projeto</a></li>
  
 </ul>
 
@@ -50,6 +49,8 @@ Foi desenvolvido diretamente no código.</p>
 ![parte7](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img4.png)
 ![parte7](https://github.com/AlexDeSaran/Java-WEB-CRUD/blob/main/img/img5.png)
 
-<h3 id="autor"Autor</h3>
+---
 
-<p>Autor do Projeto: Alécio L. Medeiros</p>
+## Licença
+
+Este projeto está licenciado sob a Licença MIT [LICENSE](LICENSE).
